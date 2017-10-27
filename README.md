@@ -2,7 +2,7 @@
 
 It is an desktop application for shop management in java
 
-anguage - JAVA
+Language - JAVA
 
 
 Requirement specification -
